@@ -1,0 +1,28 @@
+{
+	"films": [{
+			"name": "Titaniс",
+			"release date": 1997,
+			"genre": "drama"
+		},
+		{
+			"name": "The Fast and the Furious",
+			"release date": 2001,
+			"genre": "thriller"
+		},
+		{
+			"name": "The Matrix",
+			"release date": 1999,
+			"genre": "fantastic"
+		},
+		{
+		    "name": "Home Alone",
+			"release date": 1990,
+			"genre": "comedy"
+		},
+		{
+		    "name": "Kill Bill",
+			"release date": 2003,
+			"genre": "crime"
+	    }
+	]
+}
